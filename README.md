@@ -64,3 +64,16 @@ La API proporciona los siguientes endpoints para manejar las notas:
 - **POST /grade/store**: Crear una nueva nota.
 - **POST /grade/update/{id}**: Actualizar una nota existente.
 - **POST /grade/destroy/{id}**: Eliminar una nota por ID.
+
+## Aprendizajes y Retos
+
+- **Configuración con Symfony**: Aprendí a configurar un nuevo proyecto con Symfony, incluyendo la configuración de base de datos y la creación de entidades.
+- **Controladores y Rutas**: Me familiaricé con la creación de controladores y rutas en Symfony para manejar las solicitudes HTTP.
+- **Primer Contacto**: Al ser mi primera vez con Symfony, hubo una curva de aprendizaje, especialmente en la configuración del ORM y la creación de migraciones.
+
+## Próximos Pasos
+
+- **Añadir autenticación**: Planeo implementar un sistema de autenticación para asegurar los endpoints de la API.
+- **Mejorar la validación**: Incorporar validaciones más robustas para los datos de entrada en los endpoints.
+- 
+¡Gracias por revisar mi proyecto!
